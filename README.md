@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou o Pedro
+- 👀 Me interesso pelo ramo da programação
+- 🌱 Estou em constante aprendizado, atualmente focando na linguagem de Java.
