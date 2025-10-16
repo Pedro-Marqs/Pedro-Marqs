@@ -7,7 +7,7 @@
 
 ## ✨ Sobre mim
 
-🎓 Tenho 19 anos e atualmente estagio na área de T.I. na **Prefeitura de Fernandópolis**.<br>
+🎓 Tenho 20 anos e atualmente faço Sistemas de Informação na **FEF de Fernandópolis**.<br>
 📚 Estou sempre em busca de novos conhecimentos e já participei de diversas jornadas e cursos como:
 
 - **Python Power Up** - Hashtag Programação 🐍
