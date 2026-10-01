@@ -7,7 +7,7 @@
 
 ## ✨ Sobre mim
 
-🎓 Tenho 20 anos e atualmente faço Sistemas de Informação na **FEF de Fernandópolis**.<br>
+🎓 Tenho 21 anos e atualmente faço Sistemas de Informação na **FEF de Fernandópolis**.<br>
 📚 Estou sempre em busca de novos conhecimentos e já participei de diversas jornadas e cursos como:
 
 - **Python Power Up** - Hashtag Programação 🐍
@@ -62,7 +62,7 @@
 
 ## 📬 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-marques-fullstack)  
+- 💼 [LinkedIn](www.linkedin.com/in/pedro-marques-developer)  
 - 📧 Email: pedrompro01@gmail.com  
 
 ---
