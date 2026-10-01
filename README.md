@@ -1,70 +1,137 @@
-<h1 align="center">👨‍💻 Bem-vindo ao meu GitHub!</h1>
+<h1 align="center">Pedro Marques</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+Pedro+Marqs!;Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+Tecnologia+e+Games!" />
+  Desenvolvedor Java / Full Stack em início de carreira
+</p>
+
+<p align="center">
+  Java • Spring Boot • React • PostgreSQL • Docker • APIs REST
 </p>
 
 ---
 
-## ✨ Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Tenho 21 anos e atualmente faço Sistemas de Informação na **FEF de Fernandópolis**.<br>
-📚 Estou sempre em busca de novos conhecimentos e já participei de diversas jornadas e cursos como:
+🎓 Estudante de **Sistemas de Informação** na FEF de Fernandópolis.
 
-- **Python Power Up** - Hashtag Programação 🐍
-- **Jornada Full Stack** - Hashtag Programação (clone do Spotify) 🎧
-- **Curso de React (8h)** ⚛️
-- **Curso de Power BI** - Senai/FEF 📊
-- **Projetos em Node.js** através da plataforma **DIO Global** 🚀
+💻 Tenho experiência profissional com desenvolvimento e manutenção de sistemas utilizando **VB.NET**, atuando com implementação de funcionalidades, correção de bugs, refatoração e regras de negócio.
 
----
+🚀 Atualmente concentro meus estudos e projetos em desenvolvimento de aplicações web utilizando **Java, Spring Boot, React e PostgreSQL**, buscando aplicar boas práticas de arquitetura, testes, segurança e organização de código.
 
-## 🧠 Atualmente aprendendo:
-
-- MongoDB, APIs e Back-End com Node.js 💾
-- Integração de meios de pagamento e lógicas de um e-commerce 🛒
-- Metodologias Ágeis (Scrum) para atuar em equipes de desenvolvimento ágeis ⚙️
+🤖 Também estudo e utilizo desenvolvimento assistido por IA, trabalhando com **OpenSpec, OpenCode e Codex** para estruturar requisitos, tarefas, implementação, revisão e validação de software.
 
 ---
 
-## 💼 Projetos em destaque
+## 🛠️ Tecnologias
 
-🔹 **E-commerce Full Stack do zero**  
-> Projeto pessoal com back-end em Node.js + MongoDB, front-end em React e integração com APIs de pagamento.
+### Backend
 
-🔹 **Clone do Spotify (Jornada Full Stack)**  
-> Aplicação com foco em front-end responsivo, estilização com CSS moderno e funcionalidades interativas.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 
-🔹 **Dashboard de Indicadores (Power BI)**  
-> Visualização de KPIs industriais com OEE, Power Query, e relacionamento entre tabelas (fato x dimensão).
+### Frontend
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=fff)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Banco de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas e infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📈 Estatísticas do GitHub
+# 🚀 Projeto principal
+
+## 📈 Gestão de Ações e Corretoras
+
+Aplicação Full Stack desenvolvida para simulação e gerenciamento de uma carteira de investimentos em ações brasileiras e internacionais.
+
+### Principais funcionalidades
+
+- Cadastro e autenticação de usuários
+- Gestão de saldo fictício
+- Cadastro de corretoras
+- Pesquisa de ativos
+- Compra e venda de ações
+- Transferência de posições entre corretoras
+- Cálculo de posições, custo médio e patrimônio
+- Histórico de movimentações
+- Dashboard de investimentos
+- Integração com APIs externas
+- Exportação de dados para XLSX
+
+### Stack
+
+**Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA  
+**Frontend:** React, JavaScript e Vite  
+**Banco de dados:** PostgreSQL e Liquibase  
+**Testes:** JUnit, Mockito, MockMvc, Vitest e Testing Library  
+**Infraestrutura:** Docker, Docker Compose e Nginx
+
+### Engenharia e workflow
+
+O projeto foi desenvolvido utilizando um fluxo orientado a especificações, com:
+
+- OpenSpec para definição e evolução de requisitos
+- OpenCode para orquestração do desenvolvimento
+- Codex para implementação, análise e revisão
+- documentação de arquitetura e decisões técnicas
+- testes automatizados para validação das funcionalidades
+
+🔗 [Ver projeto](https://github.com/Pedro-Marqs/Corretora-de-Acoes)
+
+---
+
+## 📂 Outros projetos
+
+### 🏛️ Cadastro de Prefeituras
+
+API REST desenvolvida com Java e Spring Boot para gerenciamento de prefeituras, secretarias, departamentos, servidores e telefones.
+
+🔗 [Ver projeto](https://github.com/Pedro-Marqs/Cadastro_Prefeituras)
+
+### ☕ CRUD Java
+
+Projeto desenvolvido para prática de operações CRUD, Java e integração com banco de dados.
+
+🔗 [Ver projeto](https://github.com/Pedro-Marqs/CRUD-Java)
+
+---
+
+## 📚 Atualmente aprofundando
+
+- Java e ecossistema Spring
+- Arquitetura de aplicações
+- Testes automatizados
+- PostgreSQL
+- Docker e containerização
+- Segurança de aplicações web
+- Desenvolvimento orientado a especificações
+- Engenharia de software assistida por IA
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-marqs&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-marqs&layout=compact&langs_count=7&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Marqs&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Marqs&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Contato
+## 📫 Contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/pedro-marques-developer)  
-- 📧 Email: pedrompro01@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marques-developer/)
 
----
-
-> *“A persistência realiza o impossível.”* 🚀
+[![Gmail](https://img.shields.io/badge/Email-pedrompro01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrompro01@gmail.com)
