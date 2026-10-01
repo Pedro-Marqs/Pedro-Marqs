@@ -55,6 +55,10 @@
 
 Aplicação Full Stack desenvolvida para simulação e gerenciamento de uma carteira de investimentos em ações brasileiras e internacionais.
 
+<p align="center">
+  <img src="GIF-Compra-Acao.gif" alt="Demonstração da Gestão de Ações e Corretoras" width="900">
+</p>
+
 ### Principais funcionalidades
 
 - Cadastro e autenticação de usuários
