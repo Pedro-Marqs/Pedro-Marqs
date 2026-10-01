@@ -14,11 +14,11 @@
 
 🎓 Estudante de **Sistemas de Informação** na FEF de Fernandópolis.
 
-💻 Tive experiência profissional com desenvolvimento e manutenção de software em ambiente corporativo, atuando com implementação de funcionalidades, correção de bugs, refatoração e regras de negócio em **VB.NET**.
+🚀 Atualmente concentro meus estudos e projetos no desenvolvimento de aplicações web com **Java, Spring Boot, React e PostgreSQL**, buscando aplicar boas práticas de arquitetura, testes, segurança e organização de código.
 
-🚀 Atualmente concentro meus estudos e projetos em desenvolvimento de aplicações web utilizando **Java, Spring Boot, React e PostgreSQL**, buscando aplicar boas práticas de arquitetura, testes, segurança e organização de código.
+💼 Tive experiência profissional com desenvolvimento e manutenção de software em ambiente corporativo, atuando com implementação de funcionalidades, correção de bugs, refatoração e regras de negócio em **VB.NET**.
 
-🤖 Também estudo e utilizo desenvolvimento assistido por IA, trabalhando com **OpenSpec, OpenCode e Codex** para estruturar requisitos, tarefas, implementação, revisão e validação de software.
+🤖 Também utilizo ferramentas de desenvolvimento assistido por IA, trabalhando com **OpenSpec, OpenCode e Codex** para apoiar especificação, planejamento, implementação, revisão e validação de software.
 
 ---
 
@@ -40,7 +40,6 @@
 ### Banco de dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Ferramentas e infraestrutura
 
@@ -50,9 +49,9 @@
 
 ---
 
-# 🚀 Projeto principal
+## 🚀 Projeto em destaque
 
-## 📈 Gestão de Ações e Corretoras
+### 📈 Gestão de Ações e Corretoras
 
 Aplicação Full Stack desenvolvida para simulação e gerenciamento de uma carteira de investimentos em ações brasileiras e internacionais.
 
@@ -72,7 +71,7 @@ Aplicação Full Stack desenvolvida para simulação e gerenciamento de uma cart
 
 ### Stack
 
-**Backend:** Java 17, Spring Boot, Spring Security, Spring Data JPA  
+**Backend:** Java 17, Spring Boot, Spring Security e Spring Data JPA  
 **Frontend:** React, JavaScript e Vite  
 **Banco de dados:** PostgreSQL e Liquibase  
 **Testes:** JUnit, Mockito, MockMvc, Vitest e Testing Library  
@@ -80,13 +79,13 @@ Aplicação Full Stack desenvolvida para simulação e gerenciamento de uma cart
 
 ### Engenharia e workflow
 
-O projeto foi desenvolvido utilizando um fluxo orientado a especificações, com:
+O projeto foi desenvolvido com um fluxo orientado a especificações, utilizando:
 
-- OpenSpec para definição e evolução de requisitos
-- OpenCode para orquestração do desenvolvimento
-- Codex para implementação, análise e revisão
-- documentação de arquitetura e decisões técnicas
-- testes automatizados para validação das funcionalidades
+- **OpenSpec** para definição e evolução de requisitos
+- **OpenCode** para orquestração do desenvolvimento
+- **Codex** para apoio em implementação, análise e revisão
+- Documentação de arquitetura e decisões técnicas
+- Testes automatizados para validação das funcionalidades
 
 🔗 [Ver projeto](https://github.com/Pedro-Marqs/Corretora-de-Acoes)
 
@@ -113,11 +112,8 @@ Projeto desenvolvido para prática de operações CRUD, Java e integração com 
 - Java e ecossistema Spring
 - Arquitetura de aplicações
 - Testes automatizados
-- PostgreSQL
-- Docker e containerização
-- Segurança de aplicações web
-- Desenvolvimento orientado a especificações
-- Engenharia de software assistida por IA
+- PostgreSQL e Docker
+- Desenvolvimento orientado a especificações e engenharia de software assistida por IA
 
 ---
 
