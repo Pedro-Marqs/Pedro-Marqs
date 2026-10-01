@@ -14,7 +14,7 @@
 
 🎓 Estudante de **Sistemas de Informação** na FEF de Fernandópolis.
 
-💻 Tenho experiência profissional com desenvolvimento e manutenção de sistemas utilizando **VB.NET**, atuando com implementação de funcionalidades, correção de bugs, refatoração e regras de negócio.
+💻 Tive experiência profissional com desenvolvimento e manutenção de software em ambiente corporativo, atuando com implementação de funcionalidades, correção de bugs, refatoração e regras de negócio em **VB.NET**.
 
 🚀 Atualmente concentro meus estudos e projetos em desenvolvimento de aplicações web utilizando **Java, Spring Boot, React e PostgreSQL**, buscando aplicar boas práticas de arquitetura, testes, segurança e organização de código.
 
